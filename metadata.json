@@ -1,0 +1,5 @@
+{
+  "name": "Ghibli Image Studio",
+  "description": "An application that transforms your photos into the enchanting and iconic art style of Studio Ghibli using AI.",
+  "requestFramePermissions": []
+}
